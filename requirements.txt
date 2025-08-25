@@ -1,0 +1,15 @@
+torch
+torchvision
+numpy
+Pillow==10.2.0
+opencv-python
+tqdm
+matplotlib
+moviepy
+fastapi
+uvicorn
+python-multipart
+pydantic
+websockets
+aiofiles
+flask
